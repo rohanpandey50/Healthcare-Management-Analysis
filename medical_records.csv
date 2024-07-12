@@ -1,0 +1,801 @@
+RecordID,PatientID,DoctorID,AppointmentID,Diagnosis,Treatment
+1,43,12,596,Arthritis,Physical therapy
+2,79,10,669,Bronchitis,Inhaler prescribed
+3,142,6,607,Migraine,Surgery scheduled
+4,49,18,503,Hypertension,Rest and hydration
+5,9,13,781,Hypertension,Lifestyle changes
+6,67,28,263,Asthma,Rest and hydration
+7,48,25,661,Flu,Inhaler prescribed
+8,32,23,769,Asthma,Lifestyle changes
+9,193,10,86,Appendicitis,Diet and medication
+10,87,8,335,Gastritis,Lifestyle changes
+11,59,9,424,Flu,Topical cream
+12,106,5,546,Flu,Topical cream
+13,15,14,316,Hypertension,Inhaler prescribed
+14,166,8,504,Asthma,Antibiotics
+15,37,6,693,Bronchitis,Lifestyle changes
+16,123,30,324,Asthma,Pain relief medication
+17,92,20,410,Diabetes Type 2,Medication prescribed
+18,173,20,170,Gastritis,Pain relief medication
+19,154,26,691,Migraine,Topical cream
+20,182,16,527,Hypertension,Topical cream
+21,97,2,63,Gastritis,Medication prescribed
+22,123,19,609,Arthritis,Physical therapy
+23,10,24,55,Flu,Diet and medication
+24,3,1,97,Hypertension,Diet and medication
+25,125,1,312,Asthma,Pain relief medication
+26,34,29,258,Asthma,Physical therapy
+27,17,22,383,Arthritis,Lifestyle changes
+28,114,2,676,Arthritis,Topical cream
+29,90,18,644,Bronchitis,Pain relief medication
+30,45,22,403,Arthritis,Physical therapy
+31,65,13,32,Flu,Pain relief medication
+32,23,26,421,Hypertension,Surgery scheduled
+33,118,2,409,Migraine,Lifestyle changes
+34,85,28,378,Asthma,Antibiotics
+35,69,6,493,Hypertension,Pain relief medication
+36,134,19,251,Asthma,Topical cream
+37,185,7,326,Migraine,Rest and hydration
+38,174,22,743,Arthritis,Surgery scheduled
+39,129,5,732,Hypertension,Physical therapy
+40,200,23,226,Gastritis,Antibiotics
+41,156,7,194,Gastritis,Pain relief medication
+42,92,26,464,Diabetes Type 2,Diet and medication
+43,64,17,678,Eczema,Lifestyle changes
+44,14,30,684,Migraine,Surgery scheduled
+45,123,19,366,Migraine,Topical cream
+46,193,29,32,Asthma,Pain relief medication
+47,117,5,792,Migraine,Diet and medication
+48,71,16,293,Appendicitis,Topical cream
+49,9,9,84,Flu,Surgery scheduled
+50,64,24,794,Diabetes Type 2,Inhaler prescribed
+51,180,6,101,Eczema,Medication prescribed
+52,161,30,235,Eczema,Antibiotics
+53,5,25,471,Arthritis,Rest and hydration
+54,131,30,650,Arthritis,Inhaler prescribed
+55,157,5,478,Arthritis,Diet and medication
+56,37,20,580,Diabetes Type 2,Inhaler prescribed
+57,63,21,3,Gastritis,Lifestyle changes
+58,124,27,229,Bronchitis,Diet and medication
+59,7,17,572,Asthma,Topical cream
+60,100,3,89,Appendicitis,Diet and medication
+61,43,24,679,Gastritis,Antibiotics
+62,176,23,408,Migraine,Pain relief medication
+63,121,11,415,Eczema,Surgery scheduled
+64,117,27,259,Gastritis,Physical therapy
+65,195,2,497,Asthma,Surgery scheduled
+66,71,10,421,Hypertension,Topical cream
+67,53,16,662,Appendicitis,Inhaler prescribed
+68,133,19,275,Arthritis,Lifestyle changes
+69,193,10,684,Bronchitis,Diet and medication
+70,82,18,175,Diabetes Type 2,Medication prescribed
+71,125,14,11,Hypertension,Diet and medication
+72,4,25,103,Bronchitis,Diet and medication
+73,89,25,344,Hypertension,Lifestyle changes
+74,75,28,339,Flu,Medication prescribed
+75,145,10,263,Asthma,Antibiotics
+76,131,16,47,Bronchitis,Physical therapy
+77,50,5,338,Flu,Diet and medication
+78,172,7,264,Arthritis,Surgery scheduled
+79,149,3,526,Migraine,Rest and hydration
+80,166,20,247,Gastritis,Antibiotics
+81,151,16,587,Hypertension,Pain relief medication
+82,20,22,560,Gastritis,Diet and medication
+83,39,26,718,Asthma,Inhaler prescribed
+84,129,5,273,Migraine,Physical therapy
+85,181,19,534,Arthritis,Surgery scheduled
+86,41,27,309,Hypertension,Rest and hydration
+87,41,4,211,Asthma,Rest and hydration
+88,129,30,256,Migraine,Antibiotics
+89,46,18,278,Migraine,Inhaler prescribed
+90,166,23,606,Hypertension,Inhaler prescribed
+91,195,23,557,Bronchitis,Surgery scheduled
+92,162,4,308,Eczema,Lifestyle changes
+93,186,9,131,Appendicitis,Diet and medication
+94,195,12,121,Flu,Inhaler prescribed
+95,191,27,460,Migraine,Medication prescribed
+96,118,25,54,Arthritis,Lifestyle changes
+97,46,28,367,Diabetes Type 2,Medication prescribed
+98,105,19,105,Bronchitis,Topical cream
+99,161,18,721,Eczema,Lifestyle changes
+100,23,2,530,Eczema,Antibiotics
+101,83,10,514,Asthma,Pain relief medication
+102,14,16,310,Migraine,Pain relief medication
+103,65,7,697,Diabetes Type 2,Physical therapy
+104,72,9,54,Flu,Topical cream
+105,49,10,191,Appendicitis,Physical therapy
+106,74,18,205,Migraine,Diet and medication
+107,19,14,559,Hypertension,Antibiotics
+108,62,3,511,Arthritis,Pain relief medication
+109,165,3,197,Diabetes Type 2,Physical therapy
+110,157,4,318,Appendicitis,Lifestyle changes
+111,97,15,683,Eczema,Physical therapy
+112,24,6,490,Asthma,Rest and hydration
+113,197,29,571,Gastritis,Physical therapy
+114,46,24,673,Hypertension,Pain relief medication
+115,5,30,731,Migraine,Topical cream
+116,16,23,433,Arthritis,Rest and hydration
+117,162,10,277,Appendicitis,Antibiotics
+118,65,14,129,Flu,Inhaler prescribed
+119,9,23,233,Hypertension,Rest and hydration
+120,7,28,189,Asthma,Antibiotics
+121,200,21,708,Gastritis,Pain relief medication
+122,32,26,176,Hypertension,Medication prescribed
+123,186,20,575,Migraine,Lifestyle changes
+124,27,12,495,Diabetes Type 2,Diet and medication
+125,42,10,665,Diabetes Type 2,Pain relief medication
+126,140,20,214,Bronchitis,Diet and medication
+127,123,24,791,Asthma,Lifestyle changes
+128,12,28,447,Bronchitis,Inhaler prescribed
+129,118,8,129,Appendicitis,Antibiotics
+130,200,10,399,Diabetes Type 2,Surgery scheduled
+131,9,18,207,Asthma,Pain relief medication
+132,95,28,657,Diabetes Type 2,Surgery scheduled
+133,163,9,555,Flu,Rest and hydration
+134,43,5,673,Eczema,Inhaler prescribed
+135,154,7,692,Gastritis,Pain relief medication
+136,78,24,211,Gastritis,Surgery scheduled
+137,59,17,6,Appendicitis,Diet and medication
+138,78,9,637,Asthma,Surgery scheduled
+139,152,25,651,Diabetes Type 2,Topical cream
+140,22,17,676,Bronchitis,Pain relief medication
+141,196,23,179,Hypertension,Lifestyle changes
+142,136,16,594,Migraine,Surgery scheduled
+143,24,12,356,Migraine,Lifestyle changes
+144,108,11,676,Flu,Physical therapy
+145,56,27,139,Migraine,Topical cream
+146,104,27,51,Gastritis,Physical therapy
+147,10,25,373,Asthma,Lifestyle changes
+148,77,22,334,Diabetes Type 2,Medication prescribed
+149,28,30,38,Diabetes Type 2,Lifestyle changes
+150,150,26,664,Eczema,Topical cream
+151,72,21,740,Asthma,Medication prescribed
+152,176,8,521,Eczema,Pain relief medication
+153,200,5,495,Arthritis,Pain relief medication
+154,120,1,529,Migraine,Surgery scheduled
+155,153,7,18,Gastritis,Rest and hydration
+156,124,30,283,Migraine,Surgery scheduled
+157,17,22,272,Asthma,Physical therapy
+158,171,7,626,Asthma,Physical therapy
+159,140,16,694,Asthma,Pain relief medication
+160,122,1,717,Eczema,Topical cream
+161,67,16,798,Eczema,Antibiotics
+162,183,10,378,Appendicitis,Inhaler prescribed
+163,104,25,590,Eczema,Pain relief medication
+164,192,17,22,Eczema,Antibiotics
+165,150,4,104,Flu,Antibiotics
+166,71,23,310,Flu,Inhaler prescribed
+167,187,30,240,Eczema,Topical cream
+168,89,9,4,Hypertension,Inhaler prescribed
+169,60,29,576,Flu,Antibiotics
+170,178,4,675,Bronchitis,Rest and hydration
+171,157,18,215,Bronchitis,Physical therapy
+172,114,18,255,Hypertension,Lifestyle changes
+173,124,15,763,Eczema,Physical therapy
+174,64,16,535,Arthritis,Pain relief medication
+175,122,9,621,Diabetes Type 2,Medication prescribed
+176,139,30,150,Arthritis,Physical therapy
+177,130,18,419,Hypertension,Rest and hydration
+178,108,6,692,Flu,Diet and medication
+179,111,27,761,Appendicitis,Topical cream
+180,114,16,337,Gastritis,Medication prescribed
+181,186,6,73,Arthritis,Medication prescribed
+182,124,28,734,Flu,Surgery scheduled
+183,123,28,517,Diabetes Type 2,Physical therapy
+184,85,22,558,Diabetes Type 2,Physical therapy
+185,86,8,717,Migraine,Pain relief medication
+186,181,1,138,Appendicitis,Physical therapy
+187,34,16,234,Asthma,Rest and hydration
+188,65,12,119,Appendicitis,Medication prescribed
+189,159,8,652,Flu,Physical therapy
+190,16,7,377,Migraine,Rest and hydration
+191,150,15,790,Arthritis,Surgery scheduled
+192,171,9,368,Gastritis,Rest and hydration
+193,78,18,273,Diabetes Type 2,Surgery scheduled
+194,157,5,686,Migraine,Diet and medication
+195,152,16,574,Flu,Inhaler prescribed
+196,53,18,102,Appendicitis,Surgery scheduled
+197,23,21,753,Arthritis,Physical therapy
+198,163,10,483,Appendicitis,Diet and medication
+199,147,23,772,Migraine,Surgery scheduled
+200,82,3,354,Flu,Diet and medication
+201,99,20,299,Hypertension,Physical therapy
+202,122,6,490,Migraine,Medication prescribed
+203,166,9,248,Appendicitis,Diet and medication
+204,22,16,85,Appendicitis,Physical therapy
+205,17,27,109,Asthma,Medication prescribed
+206,122,30,572,Migraine,Surgery scheduled
+207,122,25,540,Flu,Physical therapy
+208,152,28,511,Eczema,Rest and hydration
+209,116,2,182,Hypertension,Medication prescribed
+210,16,3,195,Hypertension,Topical cream
+211,154,18,308,Migraine,Surgery scheduled
+212,72,11,607,Arthritis,Physical therapy
+213,100,17,557,Migraine,Rest and hydration
+214,183,29,30,Diabetes Type 2,Medication prescribed
+215,49,27,120,Arthritis,Diet and medication
+216,108,11,281,Bronchitis,Diet and medication
+217,44,12,118,Arthritis,Medication prescribed
+218,71,8,340,Appendicitis,Pain relief medication
+219,60,21,369,Gastritis,Diet and medication
+220,123,24,445,Asthma,Surgery scheduled
+221,195,20,8,Asthma,Antibiotics
+222,114,6,141,Arthritis,Rest and hydration
+223,70,18,253,Appendicitis,Topical cream
+224,169,18,116,Arthritis,Medication prescribed
+225,104,12,637,Eczema,Rest and hydration
+226,84,12,583,Appendicitis,Pain relief medication
+227,105,13,105,Diabetes Type 2,Diet and medication
+228,40,5,726,Diabetes Type 2,Topical cream
+229,27,2,612,Bronchitis,Lifestyle changes
+230,16,14,691,Diabetes Type 2,Rest and hydration
+231,96,9,650,Bronchitis,Medication prescribed
+232,169,8,460,Diabetes Type 2,Medication prescribed
+233,81,6,37,Diabetes Type 2,Medication prescribed
+234,124,9,639,Eczema,Surgery scheduled
+235,73,13,81,Migraine,Physical therapy
+236,173,15,742,Flu,Diet and medication
+237,24,13,573,Gastritis,Rest and hydration
+238,194,24,435,Diabetes Type 2,Diet and medication
+239,183,24,40,Appendicitis,Surgery scheduled
+240,151,2,401,Hypertension,Lifestyle changes
+241,25,25,454,Asthma,Antibiotics
+242,63,2,456,Hypertension,Inhaler prescribed
+243,79,5,403,Arthritis,Lifestyle changes
+244,171,20,760,Asthma,Diet and medication
+245,24,27,477,Hypertension,Diet and medication
+246,31,15,199,Eczema,Surgery scheduled
+247,170,10,752,Diabetes Type 2,Pain relief medication
+248,174,11,405,Arthritis,Surgery scheduled
+249,118,3,200,Arthritis,Antibiotics
+250,39,26,455,Hypertension,Antibiotics
+251,102,19,573,Bronchitis,Pain relief medication
+252,181,2,618,Asthma,Antibiotics
+253,173,6,787,Gastritis,Medication prescribed
+254,98,8,671,Bronchitis,Inhaler prescribed
+255,16,17,366,Appendicitis,Topical cream
+256,131,28,56,Migraine,Antibiotics
+257,23,5,569,Arthritis,Rest and hydration
+258,184,21,241,Bronchitis,Surgery scheduled
+259,85,10,437,Asthma,Physical therapy
+260,33,26,784,Asthma,Topical cream
+261,30,5,709,Hypertension,Topical cream
+262,193,17,747,Flu,Antibiotics
+263,57,19,691,Eczema,Surgery scheduled
+264,35,10,539,Bronchitis,Diet and medication
+265,58,29,456,Diabetes Type 2,Rest and hydration
+266,56,27,628,Eczema,Physical therapy
+267,105,8,724,Asthma,Physical therapy
+268,20,19,734,Flu,Inhaler prescribed
+269,29,4,765,Arthritis,Lifestyle changes
+270,43,7,66,Migraine,Topical cream
+271,26,3,355,Flu,Lifestyle changes
+272,37,16,625,Hypertension,Antibiotics
+273,183,25,26,Appendicitis,Surgery scheduled
+274,104,9,428,Arthritis,Surgery scheduled
+275,36,12,234,Flu,Rest and hydration
+276,177,25,257,Diabetes Type 2,Medication prescribed
+277,65,27,211,Arthritis,Surgery scheduled
+278,97,5,426,Appendicitis,Inhaler prescribed
+279,65,13,163,Bronchitis,Antibiotics
+280,193,22,765,Eczema,Antibiotics
+281,192,26,123,Arthritis,Physical therapy
+282,186,23,466,Appendicitis,Pain relief medication
+283,166,9,89,Diabetes Type 2,Pain relief medication
+284,32,29,397,Migraine,Rest and hydration
+285,150,4,248,Eczema,Diet and medication
+286,143,26,116,Hypertension,Physical therapy
+287,16,20,610,Diabetes Type 2,Lifestyle changes
+288,154,1,603,Bronchitis,Pain relief medication
+289,48,1,727,Flu,Medication prescribed
+290,131,28,403,Flu,Topical cream
+291,163,30,542,Gastritis,Antibiotics
+292,90,5,258,Flu,Medication prescribed
+293,98,29,504,Arthritis,Surgery scheduled
+294,99,8,324,Migraine,Inhaler prescribed
+295,71,22,322,Asthma,Lifestyle changes
+296,22,23,215,Arthritis,Antibiotics
+297,189,13,285,Asthma,Surgery scheduled
+298,197,22,470,Flu,Inhaler prescribed
+299,89,29,671,Migraine,Diet and medication
+300,176,27,431,Diabetes Type 2,Rest and hydration
+301,153,4,76,Gastritis,Topical cream
+302,123,15,112,Appendicitis,Antibiotics
+303,10,18,694,Diabetes Type 2,Topical cream
+304,178,8,764,Appendicitis,Topical cream
+305,148,24,551,Hypertension,Pain relief medication
+306,186,29,347,Hypertension,Lifestyle changes
+307,43,9,203,Bronchitis,Lifestyle changes
+308,197,2,11,Flu,Surgery scheduled
+309,167,24,689,Appendicitis,Rest and hydration
+310,33,28,542,Hypertension,Rest and hydration
+311,173,17,219,Diabetes Type 2,Topical cream
+312,162,1,211,Migraine,Physical therapy
+313,123,17,234,Asthma,Pain relief medication
+314,180,12,546,Flu,Surgery scheduled
+315,107,7,759,Migraine,Pain relief medication
+316,148,4,688,Migraine,Topical cream
+317,198,30,5,Hypertension,Pain relief medication
+318,124,3,779,Migraine,Medication prescribed
+319,39,25,785,Eczema,Surgery scheduled
+320,83,15,167,Migraine,Rest and hydration
+321,92,10,760,Flu,Medication prescribed
+322,131,9,647,Migraine,Inhaler prescribed
+323,67,29,228,Eczema,Diet and medication
+324,20,4,679,Asthma,Pain relief medication
+325,83,8,300,Arthritis,Pain relief medication
+326,157,2,233,Migraine,Diet and medication
+327,195,20,756,Hypertension,Pain relief medication
+328,166,2,605,Hypertension,Rest and hydration
+329,129,8,53,Gastritis,Diet and medication
+330,100,11,10,Arthritis,Diet and medication
+331,198,18,662,Migraine,Surgery scheduled
+332,200,17,319,Eczema,Pain relief medication
+333,130,28,710,Flu,Medication prescribed
+334,99,3,679,Asthma,Medication prescribed
+335,75,30,87,Gastritis,Diet and medication
+336,7,18,614,Gastritis,Antibiotics
+337,174,28,414,Bronchitis,Diet and medication
+338,18,30,398,Eczema,Medication prescribed
+339,36,15,324,Diabetes Type 2,Medication prescribed
+340,47,5,72,Appendicitis,Surgery scheduled
+341,188,4,191,Appendicitis,Physical therapy
+342,150,11,215,Migraine,Topical cream
+343,154,11,769,Migraine,Physical therapy
+344,197,15,139,Appendicitis,Pain relief medication
+345,182,17,520,Eczema,Rest and hydration
+346,173,16,262,Asthma,Topical cream
+347,106,11,50,Diabetes Type 2,Medication prescribed
+348,169,23,551,Diabetes Type 2,Rest and hydration
+349,139,2,252,Hypertension,Pain relief medication
+350,1,1,39,Flu,Physical therapy
+351,122,23,463,Diabetes Type 2,Antibiotics
+352,48,30,555,Asthma,Diet and medication
+353,116,21,684,Gastritis,Topical cream
+354,28,15,122,Hypertension,Pain relief medication
+355,76,21,230,Asthma,Rest and hydration
+356,113,30,292,Appendicitis,Physical therapy
+357,71,22,327,Asthma,Diet and medication
+358,20,20,325,Gastritis,Pain relief medication
+359,92,22,288,Eczema,Rest and hydration
+360,100,25,679,Migraine,Antibiotics
+361,13,14,789,Diabetes Type 2,Pain relief medication
+362,27,26,314,Appendicitis,Rest and hydration
+363,178,30,333,Bronchitis,Physical therapy
+364,76,18,797,Eczema,Lifestyle changes
+365,166,4,458,Arthritis,Lifestyle changes
+366,70,3,542,Hypertension,Physical therapy
+367,80,25,168,Asthma,Lifestyle changes
+368,149,20,230,Migraine,Surgery scheduled
+369,62,29,212,Arthritis,Antibiotics
+370,53,30,17,Diabetes Type 2,Rest and hydration
+371,69,7,536,Diabetes Type 2,Surgery scheduled
+372,9,21,788,Hypertension,Diet and medication
+373,166,22,174,Appendicitis,Medication prescribed
+374,55,16,473,Appendicitis,Diet and medication
+375,104,13,110,Bronchitis,Antibiotics
+376,157,21,61,Arthritis,Lifestyle changes
+377,27,13,278,Flu,Inhaler prescribed
+378,162,10,245,Appendicitis,Pain relief medication
+379,48,8,581,Hypertension,Medication prescribed
+380,71,3,458,Hypertension,Antibiotics
+381,169,30,405,Hypertension,Medication prescribed
+382,51,11,496,Arthritis,Surgery scheduled
+383,67,24,387,Appendicitis,Topical cream
+384,71,20,644,Migraine,Inhaler prescribed
+385,163,21,63,Gastritis,Topical cream
+386,62,4,400,Migraine,Inhaler prescribed
+387,172,27,108,Hypertension,Antibiotics
+388,50,7,79,Migraine,Lifestyle changes
+389,39,4,224,Hypertension,Topical cream
+390,51,24,217,Flu,Pain relief medication
+391,172,18,708,Appendicitis,Inhaler prescribed
+392,160,7,677,Appendicitis,Rest and hydration
+393,176,19,626,Eczema,Surgery scheduled
+394,124,9,470,Migraine,Diet and medication
+395,58,4,380,Arthritis,Topical cream
+396,154,17,338,Diabetes Type 2,Rest and hydration
+397,145,16,567,Eczema,Pain relief medication
+398,23,17,165,Diabetes Type 2,Pain relief medication
+399,183,28,693,Gastritis,Pain relief medication
+400,145,7,154,Diabetes Type 2,Lifestyle changes
+401,180,9,647,Hypertension,Surgery scheduled
+402,113,21,229,Flu,Topical cream
+403,32,11,155,Hypertension,Rest and hydration
+404,136,3,460,Flu,Medication prescribed
+405,126,11,116,Eczema,Pain relief medication
+406,76,8,239,Appendicitis,Antibiotics
+407,125,30,478,Bronchitis,Rest and hydration
+408,126,8,691,Asthma,Lifestyle changes
+409,165,13,128,Hypertension,Surgery scheduled
+410,118,29,232,Bronchitis,Surgery scheduled
+411,165,17,12,Gastritis,Pain relief medication
+412,71,6,164,Arthritis,Rest and hydration
+413,82,27,192,Appendicitis,Medication prescribed
+414,82,28,547,Gastritis,Lifestyle changes
+415,28,29,640,Asthma,Physical therapy
+416,114,29,269,Gastritis,Lifestyle changes
+417,154,4,379,Eczema,Rest and hydration
+418,167,27,134,Appendicitis,Pain relief medication
+419,190,28,305,Arthritis,Medication prescribed
+420,114,19,551,Asthma,Lifestyle changes
+421,123,27,333,Hypertension,Surgery scheduled
+422,145,11,350,Diabetes Type 2,Medication prescribed
+423,84,18,518,Gastritis,Inhaler prescribed
+424,44,17,98,Flu,Rest and hydration
+425,100,18,273,Arthritis,Antibiotics
+426,67,25,738,Bronchitis,Antibiotics
+427,10,1,618,Diabetes Type 2,Diet and medication
+428,193,22,424,Hypertension,Inhaler prescribed
+429,9,18,759,Flu,Diet and medication
+430,84,5,230,Gastritis,Antibiotics
+431,22,25,164,Bronchitis,Pain relief medication
+432,8,21,695,Appendicitis,Inhaler prescribed
+433,152,18,330,Appendicitis,Topical cream
+434,89,6,183,Hypertension,Pain relief medication
+435,105,6,728,Bronchitis,Inhaler prescribed
+436,126,20,313,Bronchitis,Physical therapy
+437,154,24,241,Arthritis,Medication prescribed
+438,164,3,360,Appendicitis,Physical therapy
+439,63,12,799,Hypertension,Surgery scheduled
+440,4,3,383,Appendicitis,Diet and medication
+441,177,20,37,Migraine,Rest and hydration
+442,24,6,549,Appendicitis,Inhaler prescribed
+443,182,13,620,Gastritis,Topical cream
+444,42,2,499,Eczema,Topical cream
+445,47,3,557,Diabetes Type 2,Physical therapy
+446,4,2,45,Bronchitis,Diet and medication
+447,169,4,163,Asthma,Medication prescribed
+448,165,30,752,Bronchitis,Inhaler prescribed
+449,40,3,518,Diabetes Type 2,Surgery scheduled
+450,151,14,140,Arthritis,Diet and medication
+451,14,22,667,Gastritis,Surgery scheduled
+452,182,11,68,Bronchitis,Inhaler prescribed
+453,181,9,468,Bronchitis,Surgery scheduled
+454,59,29,684,Migraine,Surgery scheduled
+455,85,29,625,Eczema,Pain relief medication
+456,183,6,308,Gastritis,Lifestyle changes
+457,52,6,61,Migraine,Surgery scheduled
+458,52,4,275,Appendicitis,Antibiotics
+459,190,9,345,Gastritis,Pain relief medication
+460,64,23,622,Bronchitis,Inhaler prescribed
+461,180,2,671,Hypertension,Topical cream
+462,172,20,44,Diabetes Type 2,Topical cream
+463,148,14,436,Hypertension,Physical therapy
+464,118,7,595,Appendicitis,Medication prescribed
+465,58,9,506,Appendicitis,Diet and medication
+466,24,13,548,Migraine,Surgery scheduled
+467,188,29,448,Arthritis,Physical therapy
+468,8,12,411,Eczema,Diet and medication
+469,171,26,709,Eczema,Surgery scheduled
+470,189,24,378,Eczema,Diet and medication
+471,41,30,282,Bronchitis,Antibiotics
+472,47,22,254,Bronchitis,Pain relief medication
+473,191,4,653,Flu,Pain relief medication
+474,33,18,368,Eczema,Physical therapy
+475,135,23,307,Hypertension,Pain relief medication
+476,140,9,686,Asthma,Diet and medication
+477,101,3,617,Eczema,Topical cream
+478,52,15,323,Arthritis,Pain relief medication
+479,56,27,393,Asthma,Surgery scheduled
+480,55,1,402,Bronchitis,Lifestyle changes
+481,55,21,433,Gastritis,Antibiotics
+482,193,24,348,Gastritis,Surgery scheduled
+483,173,29,183,Diabetes Type 2,Antibiotics
+484,118,27,616,Migraine,Diet and medication
+485,169,11,402,Appendicitis,Physical therapy
+486,189,24,451,Gastritis,Diet and medication
+487,140,23,277,Diabetes Type 2,Surgery scheduled
+488,29,27,137,Flu,Inhaler prescribed
+489,63,9,309,Arthritis,Rest and hydration
+490,53,23,384,Arthritis,Physical therapy
+491,95,14,471,Asthma,Surgery scheduled
+492,107,18,396,Gastritis,Topical cream
+493,129,7,261,Diabetes Type 2,Antibiotics
+494,40,4,435,Bronchitis,Antibiotics
+495,29,18,751,Flu,Antibiotics
+496,10,22,273,Flu,Medication prescribed
+497,173,18,568,Gastritis,Topical cream
+498,162,30,491,Bronchitis,Diet and medication
+499,125,28,591,Hypertension,Pain relief medication
+500,124,24,111,Eczema,Topical cream
+501,77,7,677,Hypertension,Inhaler prescribed
+502,45,2,738,Arthritis,Pain relief medication
+503,64,28,664,Migraine,Antibiotics
+504,174,18,460,Bronchitis,Physical therapy
+505,44,12,424,Gastritis,Inhaler prescribed
+506,22,2,57,Hypertension,Physical therapy
+507,132,22,490,Asthma,Surgery scheduled
+508,68,3,707,Eczema,Lifestyle changes
+509,134,28,744,Appendicitis,Antibiotics
+510,89,11,702,Hypertension,Surgery scheduled
+511,25,12,504,Eczema,Physical therapy
+512,185,12,239,Arthritis,Surgery scheduled
+513,75,8,553,Flu,Inhaler prescribed
+514,154,21,406,Eczema,Surgery scheduled
+515,178,3,416,Eczema,Diet and medication
+516,67,15,310,Arthritis,Antibiotics
+517,16,6,748,Flu,Antibiotics
+518,131,4,583,Asthma,Pain relief medication
+519,64,6,555,Flu,Topical cream
+520,79,4,342,Bronchitis,Diet and medication
+521,166,25,288,Diabetes Type 2,Rest and hydration
+522,118,12,530,Diabetes Type 2,Surgery scheduled
+523,146,21,450,Migraine,Antibiotics
+524,148,13,20,Appendicitis,Surgery scheduled
+525,41,6,370,Bronchitis,Antibiotics
+526,78,6,735,Asthma,Inhaler prescribed
+527,132,15,493,Arthritis,Rest and hydration
+528,34,15,266,Diabetes Type 2,Surgery scheduled
+529,104,26,647,Asthma,Inhaler prescribed
+530,111,2,336,Arthritis,Topical cream
+531,82,23,164,Asthma,Pain relief medication
+532,70,3,373,Eczema,Antibiotics
+533,30,7,75,Bronchitis,Surgery scheduled
+534,200,12,627,Migraine,Medication prescribed
+535,67,22,594,Arthritis,Rest and hydration
+536,200,10,581,Appendicitis,Medication prescribed
+537,183,28,275,Asthma,Physical therapy
+538,128,22,272,Eczema,Medication prescribed
+539,97,28,662,Bronchitis,Surgery scheduled
+540,67,26,102,Gastritis,Inhaler prescribed
+541,181,27,145,Gastritis,Physical therapy
+542,135,11,242,Appendicitis,Rest and hydration
+543,69,13,461,Diabetes Type 2,Antibiotics
+544,158,9,357,Hypertension,Surgery scheduled
+545,193,23,517,Appendicitis,Lifestyle changes
+546,148,26,415,Gastritis,Pain relief medication
+547,145,4,68,Arthritis,Rest and hydration
+548,180,1,472,Appendicitis,Pain relief medication
+549,180,22,754,Asthma,Inhaler prescribed
+550,183,18,744,Eczema,Medication prescribed
+551,188,17,205,Appendicitis,Topical cream
+552,37,14,426,Diabetes Type 2,Inhaler prescribed
+553,85,3,45,Hypertension,Topical cream
+554,167,1,655,Flu,Lifestyle changes
+555,187,25,477,Appendicitis,Surgery scheduled
+556,54,22,151,Flu,Lifestyle changes
+557,183,21,551,Flu,Physical therapy
+558,83,9,121,Diabetes Type 2,Diet and medication
+559,116,1,65,Migraine,Antibiotics
+560,29,10,217,Asthma,Antibiotics
+561,180,20,441,Flu,Rest and hydration
+562,95,14,522,Diabetes Type 2,Rest and hydration
+563,100,5,134,Asthma,Physical therapy
+564,56,26,772,Eczema,Rest and hydration
+565,73,4,496,Hypertension,Surgery scheduled
+566,165,16,373,Appendicitis,Physical therapy
+567,195,30,449,Eczema,Pain relief medication
+568,172,25,118,Migraine,Pain relief medication
+569,126,9,652,Migraine,Pain relief medication
+570,3,21,714,Migraine,Rest and hydration
+571,53,11,730,Diabetes Type 2,Antibiotics
+572,100,11,309,Flu,Diet and medication
+573,118,22,199,Gastritis,Inhaler prescribed
+574,64,17,263,Migraine,Diet and medication
+575,54,19,148,Arthritis,Diet and medication
+576,76,30,367,Migraine,Antibiotics
+577,95,16,217,Diabetes Type 2,Surgery scheduled
+578,29,20,544,Arthritis,Lifestyle changes
+579,37,10,654,Bronchitis,Surgery scheduled
+580,136,23,797,Migraine,Inhaler prescribed
+581,105,30,355,Bronchitis,Antibiotics
+582,64,17,563,Hypertension,Physical therapy
+583,45,28,679,Diabetes Type 2,Lifestyle changes
+584,127,19,640,Hypertension,Inhaler prescribed
+585,91,28,15,Appendicitis,Topical cream
+586,47,5,429,Diabetes Type 2,Lifestyle changes
+587,58,13,205,Migraine,Lifestyle changes
+588,47,5,147,Gastritis,Lifestyle changes
+589,44,27,748,Gastritis,Topical cream
+590,187,23,574,Diabetes Type 2,Inhaler prescribed
+591,134,2,347,Diabetes Type 2,Inhaler prescribed
+592,162,17,564,Asthma,Surgery scheduled
+593,28,9,545,Flu,Medication prescribed
+594,173,30,178,Flu,Surgery scheduled
+595,192,8,245,Eczema,Pain relief medication
+596,177,1,361,Bronchitis,Pain relief medication
+597,85,20,577,Arthritis,Surgery scheduled
+598,12,7,596,Bronchitis,Antibiotics
+599,51,17,549,Bronchitis,Surgery scheduled
+600,127,12,353,Migraine,Surgery scheduled
+601,56,15,729,Gastritis,Diet and medication
+602,4,5,592,Migraine,Lifestyle changes
+603,150,7,82,Migraine,Antibiotics
+604,199,10,401,Gastritis,Antibiotics
+605,41,3,193,Bronchitis,Inhaler prescribed
+606,174,26,71,Arthritis,Pain relief medication
+607,71,1,396,Bronchitis,Diet and medication
+608,61,18,73,Appendicitis,Physical therapy
+609,177,17,700,Flu,Physical therapy
+610,112,8,511,Appendicitis,Physical therapy
+611,12,22,336,Migraine,Rest and hydration
+612,64,22,485,Gastritis,Medication prescribed
+613,122,8,589,Eczema,Lifestyle changes
+614,100,9,94,Migraine,Surgery scheduled
+615,172,13,535,Gastritis,Pain relief medication
+616,129,28,468,Migraine,Diet and medication
+617,33,6,662,Migraine,Inhaler prescribed
+618,98,18,652,Bronchitis,Antibiotics
+619,181,12,419,Bronchitis,Topical cream
+620,100,24,776,Bronchitis,Topical cream
+621,59,12,259,Diabetes Type 2,Lifestyle changes
+622,192,7,271,Bronchitis,Medication prescribed
+623,105,11,480,Flu,Diet and medication
+624,3,2,399,Bronchitis,Physical therapy
+625,27,27,341,Gastritis,Medication prescribed
+626,4,15,179,Diabetes Type 2,Diet and medication
+627,126,29,609,Bronchitis,Pain relief medication
+628,95,22,648,Asthma,Topical cream
+629,192,16,665,Asthma,Lifestyle changes
+630,72,23,264,Migraine,Lifestyle changes
+631,34,12,632,Diabetes Type 2,Physical therapy
+632,36,2,62,Eczema,Medication prescribed
+633,134,4,313,Gastritis,Physical therapy
+634,56,20,643,Hypertension,Pain relief medication
+635,194,1,473,Migraine,Surgery scheduled
+636,157,16,678,Flu,Surgery scheduled
+637,36,21,34,Flu,Antibiotics
+638,16,5,581,Flu,Lifestyle changes
+639,183,20,771,Arthritis,Diet and medication
+640,196,15,73,Hypertension,Lifestyle changes
+641,11,27,328,Eczema,Physical therapy
+642,25,2,387,Diabetes Type 2,Inhaler prescribed
+643,165,20,499,Arthritis,Rest and hydration
+644,20,12,399,Gastritis,Medication prescribed
+645,176,2,207,Appendicitis,Surgery scheduled
+646,76,22,638,Appendicitis,Surgery scheduled
+647,132,16,135,Appendicitis,Physical therapy
+648,99,2,366,Diabetes Type 2,Diet and medication
+649,173,28,565,Hypertension,Rest and hydration
+650,152,20,7,Hypertension,Inhaler prescribed
+651,90,13,304,Hypertension,Medication prescribed
+652,58,19,108,Eczema,Diet and medication
+653,58,16,504,Arthritis,Medication prescribed
+654,73,20,748,Hypertension,Topical cream
+655,147,3,164,Diabetes Type 2,Inhaler prescribed
+656,53,25,622,Migraine,Topical cream
+657,64,4,290,Hypertension,Pain relief medication
+658,90,28,641,Eczema,Inhaler prescribed
+659,105,15,800,Appendicitis,Pain relief medication
+660,64,10,574,Arthritis,Diet and medication
+661,173,12,761,Diabetes Type 2,Lifestyle changes
+662,29,11,268,Diabetes Type 2,Medication prescribed
+663,44,16,563,Bronchitis,Pain relief medication
+664,145,24,273,Migraine,Medication prescribed
+665,148,21,438,Bronchitis,Diet and medication
+666,154,20,757,Gastritis,Rest and hydration
+667,147,6,59,Hypertension,Rest and hydration
+668,32,4,111,Appendicitis,Inhaler prescribed
+669,131,22,233,Flu,Pain relief medication
+670,143,27,345,Bronchitis,Surgery scheduled
+671,67,11,340,Asthma,Medication prescribed
+672,2,25,539,Eczema,Rest and hydration
+673,127,20,677,Appendicitis,Inhaler prescribed
+674,83,29,238,Flu,Physical therapy
+675,102,30,564,Flu,Inhaler prescribed
+676,116,19,416,Hypertension,Topical cream
+677,24,10,472,Asthma,Antibiotics
+678,99,20,530,Eczema,Pain relief medication
+679,99,15,227,Gastritis,Inhaler prescribed
+680,177,17,548,Appendicitis,Pain relief medication
+681,135,28,692,Appendicitis,Rest and hydration
+682,25,5,631,Appendicitis,Physical therapy
+683,20,12,451,Migraine,Inhaler prescribed
+684,97,15,148,Diabetes Type 2,Antibiotics
+685,123,15,329,Diabetes Type 2,Topical cream
+686,22,25,652,Hypertension,Surgery scheduled
+687,177,1,520,Eczema,Topical cream
+688,132,5,336,Asthma,Pain relief medication
+689,158,3,91,Gastritis,Pain relief medication
+690,123,22,428,Bronchitis,Rest and hydration
+691,59,9,409,Arthritis,Surgery scheduled
+692,59,19,655,Bronchitis,Rest and hydration
+693,165,14,299,Hypertension,Physical therapy
+694,143,22,163,Migraine,Lifestyle changes
+695,180,24,437,Hypertension,Inhaler prescribed
+696,153,18,341,Gastritis,Lifestyle changes
+697,81,7,249,Hypertension,Rest and hydration
+698,177,3,512,Gastritis,Pain relief medication
+699,152,6,228,Bronchitis,Physical therapy
+700,73,11,436,Eczema,Surgery scheduled
+701,158,23,692,Migraine,Inhaler prescribed
+702,200,25,714,Diabetes Type 2,Physical therapy
+703,39,2,157,Gastritis,Inhaler prescribed
+704,46,28,712,Gastritis,Topical cream
+705,146,27,752,Diabetes Type 2,Rest and hydration
+706,55,22,252,Hypertension,Antibiotics
+707,121,10,284,Hypertension,Medication prescribed
+708,99,22,458,Eczema,Inhaler prescribed
+709,198,27,378,Bronchitis,Pain relief medication
+710,87,24,672,Eczema,Antibiotics
+711,38,28,701,Arthritis,Rest and hydration
+712,189,28,592,Bronchitis,Antibiotics
+713,87,10,515,Asthma,Topical cream
+714,61,10,606,Eczema,Lifestyle changes
+715,192,22,671,Arthritis,Antibiotics
+716,33,23,14,Hypertension,Inhaler prescribed
+717,50,27,100,Diabetes Type 2,Antibiotics
+718,20,3,791,Diabetes Type 2,Rest and hydration
+719,163,22,745,Diabetes Type 2,Lifestyle changes
+720,60,20,412,Gastritis,Surgery scheduled
+721,130,17,181,Eczema,Antibiotics
+722,172,19,16,Gastritis,Rest and hydration
+723,114,14,500,Diabetes Type 2,Physical therapy
+724,38,9,528,Eczema,Topical cream
+725,10,1,389,Migraine,Physical therapy
+726,9,3,207,Diabetes Type 2,Inhaler prescribed
+727,33,16,313,Flu,Medication prescribed
+728,153,18,694,Diabetes Type 2,Physical therapy
+729,54,17,452,Gastritis,Medication prescribed
+730,10,26,275,Asthma,Pain relief medication
+731,135,24,311,Eczema,Lifestyle changes
+732,186,21,676,Gastritis,Surgery scheduled
+733,83,30,505,Diabetes Type 2,Rest and hydration
+734,44,8,263,Gastritis,Diet and medication
+735,114,21,667,Diabetes Type 2,Surgery scheduled
+736,177,13,755,Arthritis,Pain relief medication
+737,173,1,703,Diabetes Type 2,Diet and medication
+738,156,21,594,Diabetes Type 2,Pain relief medication
+739,10,30,118,Arthritis,Lifestyle changes
+740,56,23,504,Bronchitis,Physical therapy
+741,180,12,241,Asthma,Pain relief medication
+742,83,16,192,Appendicitis,Topical cream
+743,84,12,591,Appendicitis,Antibiotics
+744,121,10,694,Gastritis,Medication prescribed
+745,132,25,618,Arthritis,Lifestyle changes
+746,122,18,328,Hypertension,Medication prescribed
+747,38,22,552,Appendicitis,Lifestyle changes
+748,64,7,132,Appendicitis,Rest and hydration
+749,75,27,704,Hypertension,Lifestyle changes
+750,90,12,143,Hypertension,Medication prescribed
+751,88,18,221,Bronchitis,Antibiotics
+752,156,16,5,Hypertension,Inhaler prescribed
+753,26,21,696,Asthma,Lifestyle changes
+754,77,5,244,Diabetes Type 2,Physical therapy
+755,7,28,380,Arthritis,Pain relief medication
+756,90,5,143,Asthma,Inhaler prescribed
+757,109,3,172,Appendicitis,Topical cream
+758,146,12,645,Asthma,Surgery scheduled
+759,30,30,237,Appendicitis,Physical therapy
+760,76,6,554,Hypertension,Inhaler prescribed
+761,65,18,351,Gastritis,Rest and hydration
+762,169,4,435,Migraine,Inhaler prescribed
+763,9,22,197,Flu,Pain relief medication
+764,173,26,457,Bronchitis,Surgery scheduled
+765,34,1,549,Appendicitis,Lifestyle changes
+766,127,26,568,Migraine,Inhaler prescribed
+767,97,29,410,Asthma,Inhaler prescribed
+768,85,27,33,Hypertension,Antibiotics
+769,185,25,614,Flu,Antibiotics
+770,4,11,599,Bronchitis,Topical cream
+771,33,27,576,Asthma,Lifestyle changes
+772,17,12,305,Gastritis,Diet and medication
+773,198,19,477,Hypertension,Inhaler prescribed
+774,16,8,495,Diabetes Type 2,Diet and medication
+775,49,12,52,Asthma,Physical therapy
+776,116,17,296,Asthma,Inhaler prescribed
+777,8,24,724,Eczema,Surgery scheduled
+778,106,23,151,Bronchitis,Physical therapy
+779,120,17,569,Arthritis,Diet and medication
+780,32,7,480,Gastritis,Physical therapy
+781,143,1,258,Migraine,Pain relief medication
+782,102,25,648,Asthma,Lifestyle changes
+783,73,20,58,Gastritis,Lifestyle changes
+784,38,4,747,Appendicitis,Pain relief medication
+785,147,20,507,Migraine,Diet and medication
+786,162,13,379,Asthma,Inhaler prescribed
+787,136,22,253,Diabetes Type 2,Diet and medication
+788,67,2,411,Eczema,Antibiotics
+789,71,28,400,Diabetes Type 2,Antibiotics
+790,105,17,42,Appendicitis,Topical cream
+791,154,25,585,Bronchitis,Inhaler prescribed
+792,11,27,576,Migraine,Antibiotics
+793,65,17,131,Arthritis,Surgery scheduled
+794,130,27,177,Bronchitis,Diet and medication
+795,148,9,286,Flu,Topical cream
+796,154,3,206,Flu,Inhaler prescribed
+797,128,22,324,Asthma,Pain relief medication
+798,137,3,150,Migraine,Lifestyle changes
+799,40,29,594,Hypertension,Diet and medication
+800,135,12,418,Gastritis,Diet and medication
